@@ -6,7 +6,7 @@ package entity;
  *
  */
 public class Producto {
-	public void 
+
 	
 
 }
