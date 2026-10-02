@@ -7,5 +7,8 @@ package model.sanchez;
  */
 
 public class ProductoModel {
-
+	public void calcular() {
 }
+	
+}
+
