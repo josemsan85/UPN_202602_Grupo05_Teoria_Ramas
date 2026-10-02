@@ -7,5 +7,7 @@ package model.Lazaro;
  */
 
 public class Producto_model_LAZARO {
-
+	
+	public void calcular() {
+	}
 }
